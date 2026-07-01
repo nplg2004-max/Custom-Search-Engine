@@ -1,0 +1,5 @@
+requests==2.32.3
+python-dotenv==1.0.1
+google-genai==1.14.0
+tavily-python==0.3.9
+rich==13.7.1
