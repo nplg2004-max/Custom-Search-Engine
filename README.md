@@ -58,8 +58,6 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
-*Important: Open the `.env` file and insert your API keys before running the application.*
-
 ---
 
 ## 💻 Usage
